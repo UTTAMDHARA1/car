@@ -1,0 +1,13 @@
+@media only screen and (min-width:200px) and (max-width:575px){
+    .specification .card-body img{
+        width: 55px;
+    }
+    .car-collection .carousel-control-prev {
+        left: 0px;
+    }
+    .car-collection .carousel-control-next {
+        right: 0px;
+    }
+    
+    
+}

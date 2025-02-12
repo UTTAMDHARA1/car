@@ -1,0 +1,49 @@
+ul{
+    list-style-type: none;
+}
+header{
+    box-shadow: 0px 2px 14px 4px rgb(236, 5, 5);
+}
+header nav img{
+    width: 80px;
+}
+.specification .card-body img{
+    width: 75px;
+}
+.renting-sec{
+    background-color: #F4F4F4;
+}
+.renting-sec img{
+    transition: all 0.5s ;
+}
+.renting-sec img:hover{
+    transform: scale(1.1);
+}
+.specification-sec table tr td{
+    border-width: 0px 0px 1px 0px;
+    border-color: hsla(0, 38%, 95%, 0.938);
+    padding: 10px;
+}
+.specification-sec table {
+    width: 100%;
+
+}
+.specification-sec img{
+    transition: all 0.5s ;
+}
+.specification-sec img:hover{
+    transform: scale(1.06);
+}
+.car-collection .carousel-control-prev {
+    left: -98px;
+}
+.car-collection .carousel-control-next {
+    right: -98px;
+}
+ .top-dealer .container img{
+    width: 9%;
+ }
+footer img{
+    width: 70px;
+} 
+
